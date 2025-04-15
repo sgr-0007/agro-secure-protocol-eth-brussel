@@ -29,7 +29,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/manukj/agro-secure-protocol-eth-brussel.git
+   git clone https://github.com/sgr-0007/agro-secure-protocol-eth-brussel.git
    cd agro-secure-protocol-eth-brussel
    ```
 
